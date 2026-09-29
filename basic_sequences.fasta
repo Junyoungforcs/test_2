@@ -1,0 +1,6 @@
+>demo_reference synthetic coding DNA with EcoRI site
+ATGGCCGAATTCGTTAACTAA
+>demo_variant synthetic coding DNA with one synonymous change
+ATGGCTGAATTCGTTAACTAA
+>ecori_site EcoRI recognition motif used in the motif-search example
+GAATTC
